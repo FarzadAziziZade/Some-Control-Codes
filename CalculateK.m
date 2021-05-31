@@ -71,9 +71,9 @@ end
         L2=1;
         len2=1;
 end
-len1;
-len2;
+len1
+len2
 bbb=zigmatetp-zigmatetz;
-out=180-bbb;
-in=180+bbb;
-k=L1/L2;
+outputANG=180-bbb
+inputANG=180+bbb
+k=L1/L2
