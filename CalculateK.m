@@ -3,8 +3,8 @@ clear all
 close all
 nump=input('number of poles=');
 numz=input('number of zeros=');
-x2=input(' X of the intended pole=');
-y2=input('Y of the intended pole=');
+x2=input(' X of the desired pole=');
+y2=input('Y of the desired pole=');
 L1=1;
 L2=1;
 zigmatetp=0;
